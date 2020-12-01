@@ -1,6 +1,6 @@
 {
   "name": "svelte-formik",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Formik inspired library for building forms easily in a Svelte project.",
   "main": "dist/index.js",
   "scripts": {
